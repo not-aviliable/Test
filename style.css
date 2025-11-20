@@ -1,0 +1,84 @@
+body{
+    background-color: rgb(34, 91, 135);
+    background-size: cover;
+    color: azure;
+    font-style: italic;
+    font-size: large;
+    font: optional;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+}
+.qw{
+    top: 2%;
+    position: relative;
+    left: 155px;
+    background-color: rgb(129, 55, 198) ;
+     height: 100px;
+    width: 200px;
+    border: 40px;
+    position: absolute;
+    text-align: center;
+    border-radius: 25px;
+    
+}
+.we{
+    position: absolute;
+    text-align: center;
+    left: 190px;
+    top: 10%;
+}
+
+.k{
+    background-color: rgb(252, 0, 0);
+    height: 35px;
+    width: 150px;
+    border: 40px;
+    position: absolute;
+    border-radius: 50px;
+    text-align: center;
+    left: 181px;
+    top: 130px;
+}
+
+.l{
+    background-color: rgb(0, 0, 255);
+    height: 35px;
+    width: 150px;
+    border: 40px;
+    position: absolute;
+    border-radius: 25px;
+    text-align: center;
+    padding: px;
+    left: 330px;
+    top: 130px;
+}
+.m{
+    background-color: rgb(0, 184, 37);
+    height: 35px;
+    width: 150px;
+    border: 40px;
+    position: absolute;
+    text-align: center;
+    border-radius: 50px;
+    left: 30px;
+    top: 130px;
+}
+.op{
+    position: absolute;
+    top: 190px;
+    left: 80px;
+    text-align: center;
+}
+img{
+    position: absolute;
+    top:250px;
+    text-align: center;
+    left:120px;
+
+}
+.foot{
+    position: absolute;
+    top: 600px;
+    left: 130px;
+    text-align: center;
+}
